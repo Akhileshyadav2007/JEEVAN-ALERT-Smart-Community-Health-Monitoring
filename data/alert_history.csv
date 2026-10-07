@@ -1,0 +1,5 @@
+alert_id,date_time,village,district,risk_level,ai_risk_score,status
+,,,,,,
+JA-20260822154603,22-08-2026 15:46:03,Shivpur,Prayagraj,HIGH,99.00%,ACTIVE
+JA-20260822164737,22-08-2026 16:47:37,Shivpur,Prayagraj,HIGH,99.00%,ACTIVE
+ALT-20260825101501,25-08-2026 10:15:01,Rampur,Prayagraj,Critical,36.75,ACTIVE

@@ -1,0 +1,27 @@
+date_time,house_id,name,mobile,village,water_source,water_score,risk_level,priority_age_groups,health_risk,notification_type,status,message
+26-08-2026 14:32:02,HOUSE-001,Akhilesh Yadav,9555692803,Rampur,Tap Water,10.0,Low,General Household,Low screening-level water risk,WATER MONITORING UPDATE → 👨‍👩‍👧 Family,GENERATED / RECORDED,"
+🟢 JEEVAN-ALERT WATER MONITORING UPDATE
+
+House ID: HOUSE-001
+Village: Rampur
+
+Water Source:
+Tap Water
+
+Water Risk Score:
+10.0/100
+
+Risk Level:
+LOW
+
+Priority Age Group:
+General Household
+
+Health Risk:
+Low screening-level water risk
+
+Current screening does not indicate
+a major water-quality risk.
+
+Continue regular monitoring.
+"

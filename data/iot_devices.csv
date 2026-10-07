@@ -1,0 +1,2 @@
+device_id,house_id,village,status,pH,TDS,turbidity,temperature,last_update
+ESP32-H001,H001,A,Connected,7.0,300.0,1.0,25.0,26-08-2026 14:47:17

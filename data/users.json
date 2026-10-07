@@ -1,0 +1,32 @@
+{
+    "admin": {
+        "password": "admin123",
+        "role": "Administrator",
+        "name": "System Administrator"
+    },
+    "healthworker": {
+        "password": "health123",
+        "role": "Health Worker",
+        "name": "Health Worker"
+    },
+    "Yadav123": {
+        "password": "abc123",
+        "role": "Family",
+        "name": "Akhilesh Yadav"
+    },
+    "yadav123": {
+        "password": "abc123",
+        "role": "Administrator",
+        "name": "Akhilesh Yadav"
+    },
+    "yadav1234": {
+        "password": "@123",
+        "role": "Family",
+        "name": "Akhilesh Yadav"
+    },
+    "yadav12345": {
+        "password": "@123",
+        "role": "Family",
+        "name": "Akhilesh Yadav"
+    }
+}

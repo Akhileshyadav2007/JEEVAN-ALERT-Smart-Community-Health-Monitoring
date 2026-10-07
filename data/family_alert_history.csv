@@ -1,0 +1,95 @@
+date_time,house_id,village,message,water_source,water_score,risk_level,priority_age_groups,health_risk,alert_status,health_score,alert_level,recipients,status
+24-08-2026 16:09:21,HOUSE-001,Rampur,"
+House ID: HOUSE-001
+
+Village: Rampur
+
+Water Source: Tap Water
+
+Water Risk: Low
+
+Water Score: 10/100
+
+Priority Age Group:
+General Household
+
+Health Guidance:
+Low screening-level water risk
+
+Recommendation:
+Use safe treated drinking water.
+Arrange laboratory water testing if required.
+Continue household monitoring.
+",,,,,,,,,,
+25-08-2026 08:54:08,HOUSE-001,Rampur,"
+House ID: HOUSE-001
+
+Village: Rampur
+
+Water Source: Tap Water
+
+Water Risk: High
+
+Water Score: 90/100
+
+Priority Age Group:
+Young Children (0-5), Older Adults (60+), Children (6-17)
+
+Health Guidance:
+Elevated water-related gastrointestinal illness risk
+
+Recommendation:
+Use safe treated drinking water.
+Arrange laboratory water testing if required.
+Continue household monitoring.
+",,,,,,,,,,
+25-08-2026 09:00:35,HOUSE-001,Rampur,"
+🚨 WATER SAFETY ALERT
+
+House ID: HOUSE-001
+Village: Rampur
+Water Source: Tap Water
+
+Water Risk Score: 90/100
+Risk Level: HIGH
+
+Priority Age Group:
+Young Children (0-5), Older Adults (60+), Children (6-17)
+
+Health Risk Category:
+Elevated water-related gastrointestinal illness risk
+
+Recommended Action:
+
+1. Use safe/treated drinking water.
+2. Avoid consuming untreated water.
+3. Arrange authorized/laboratory water testing.
+4. Give additional precaution to the identified age groups.
+5. Contact the appropriate health authority if symptoms occur.
+",Tap Water,90.0,High,"Young Children (0-5), Older Adults (60+), Children (6-17)",Elevated water-related gastrointestinal illness risk,GENERATED,,,,
+25-08-2026 10:14:36,HOUSE-001,Rampur,,,90.0,,General Household,,,36.75,CRITICAL,"👨‍👩‍👧 Family, 🏥 Health Worker, 🏛️ Health Authority / Admin",GENERATED
+25-08-2026 10:18:19,HOUSE-001,Rampur,,,90.0,,General Household,,,36.75,CRITICAL,"👨‍👩‍👧 Family, 🏥 Health Worker, 🏛️ Health Authority / Admin",GENERATED
+25-08-2026 10:18:21,HOUSE-001,Rampur,,,90.0,,General Household,,,36.75,CRITICAL,"👨‍👩‍👧 Family, 🏥 Health Worker, 🏛️ Health Authority / Admin",GENERATED
+25-08-2026 11:08:29,HOUSE-001,Rampur,,,10.0,,General Household,,,4.75,LOW,📊 Monitoring Dashboard,GENERATED
+25-08-2026 13:10:13,HOUSE-001,Rampur,"
+House ID: HOUSE-001
+
+Village: Rampur
+
+Water Source: Tap Water
+
+Water Risk: High
+
+Water Score: 90/100
+
+Priority Age Group:
+General Household
+
+Health Guidance:
+Elevated water-related gastrointestinal illness risk
+
+Recommendation:
+Use safe treated drinking water.
+Arrange laboratory water testing if required.
+Continue household monitoring.
+",,,,,,,,,,

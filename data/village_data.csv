@@ -1,0 +1,11 @@
+village,district,population,rainfall,temperature,humidity,water_quality,previous_cases,sanitation_score,flood_status,latitude,longitude,risk_level
+Rampur,Prayagraj,4200,80,28,65,Good,2,85,No,25.4358,81.8463,Low
+Shivpur,Prayagraj,5100,190,33,82,Poor,32,38,Yes,25.4484,81.8500,High
+Lakshmipur,Varanasi,3600,130,31,75,Medium,14,60,No,25.3176,82.9739,Medium
+Rajapur,Lucknow,6200,170,32,79,Poor,25,45,Yes,26.8467,80.9462,High
+Devgaon,Kanpur,2800,65,27,60,Good,1,90,No,26.4499,80.3319,Low
+Madhopur,Ayodhya,4500,145,31,76,Medium,18,55,No,26.7922,82.1998,Medium
+Haripur,Agra,3900,155,32,78,Poor,22,48,Yes,27.1767,78.0081,High
+Sultanpur,Sultanpur,4700,95,29,68,Good,5,82,No,26.2648,82.0727,Low
+Kalyanpur,Meerut,5200,110,30,70,Medium,9,65,No,28.9845,77.7064,Medium
+Bhagwanpur,Gorakhpur,5800,200,33,85,Poor,38,35,Yes,26.7606,83.3732,High
